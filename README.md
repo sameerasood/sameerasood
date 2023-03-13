@@ -4,17 +4,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sameerasood_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coding.mamma/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-
-
-### Talking about Personal Stuffs:
-
+### My story:
+- Mama that decided to jump into tech after 6 years of stay at home parenting.
+- Currently training to be a full stack developer at @makersacademy.
 - 🛠 &nbsp; I’m currently working with Ruby, Nodejs, Express, React, <br />  Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/iampavangandhi](https://github.com/sameerasood?tab=repositories).
 - 📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/1dGIsePrDFb4W8mnblOsLhUnkMWBH3EKP/edit?usp=sharing&ouid=107614419497412342916&rtpof=true&sd=true).
 
-### My story:
 
 ### Languages and Tools:
 
@@ -31,7 +27,7 @@
 
 
 
-### Projects and Dev Stuffs:
+### Some stats :
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -43,16 +39,7 @@
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerasood&hide_border=true" />
 </details>
 
-
-
-#
-
-<div align="center">
-
-
-</div>
