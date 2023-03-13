@@ -8,7 +8,7 @@
 - Mama that decided to jump into tech after 6 years of stay at home parenting.
 - Currently training to be a full stack developer at @makersacademy.
 - 🛠 &nbsp; I’m currently working with Ruby, Nodejs, Express, React, <br />  Javascript, etc.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/iampavangandhi](https://github.com/sameerasood?tab=repositories).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]((https://github.com/sameerasood?tab=repositories).
 - 📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/1dGIsePrDFb4W8mnblOsLhUnkMWBH3EKP/edit?usp=sharing&ouid=107614419497412342916&rtpof=true&sd=true).
 
 
