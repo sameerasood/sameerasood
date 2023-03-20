@@ -8,8 +8,8 @@
 - Mama that decided to jump into tech after 6 years of stay at home parenting.
 - Currently training to be a full stack developer at @makersacademy.
 - 🛠 &nbsp; I’m currently working with Ruby, Nodejs, Express, React, <br />  Javascript, etc.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]((https://github.com/sameerasood?tab=repositories).
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/12HmwI_3NLDU-qyqpvUCbvr5fv1Xcbm0S/view?usp=sharing).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sameerasood?tab=repositories).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1LOJ35nKRqG_6iVKY7cTYP5oyx9_pLf5P/view?usp=sharing).
 
 
 ### Languages and Tools:
