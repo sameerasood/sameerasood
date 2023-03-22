@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coding.mamma/)
 
 ### My story:
-- Mama that decided to jump into tech after 6 years of stay at home parenting.
+- Ex technical writer, moving into software development.
 - Currently training to be a full stack developer at @makersacademy.
 - 🛠 &nbsp; I’m currently working with Ruby, Nodejs, Express, React, <br />  Javascript, etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sameerasood?tab=repositories).
