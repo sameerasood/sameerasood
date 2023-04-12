@@ -9,7 +9,7 @@
 - Currently training to be a full stack developer at @makersacademy.
 - 🛠 &nbsp; I’m currently working with Ruby, Nodejs, Express, React, <br />  Javascript, etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sameerasood?tab=repositories).
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1LOJ35nKRqG_6iVKY7cTYP5oyx9_pLf5P/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/sameerasood/sameerasood/blob/main/Sameera_Sood_Dev.pdf).
 
 
 ### Languages and Tools:
