@@ -6,9 +6,8 @@
 
 ### My story:
 - Ex technical writer, moving into software development.
-- Currently training to be a full stack developer at @makersacademy.
+- B.Tech in Computer Science, trained to be a full stack developer by @makersacademy.
 - 🛠 &nbsp; I’m currently working with Ruby, Nodejs, Express, React, <br />  Javascript, etc.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sameerasood?tab=repositories).
 - 📝 &nbsp; Checkout my [Resume](https://github.com/sameerasood/sameerasood/blob/main/Sameera_Sood_Dev.pdf).
 
 
