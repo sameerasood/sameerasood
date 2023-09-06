@@ -5,10 +5,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coding.mamma/)
 
 ### My story:
-- Ex technical writer, moving into software development.
+- Currently Software Dev at [Tiney](www.tiney.co). Ex technical writer, career changer.
 - B.Tech in Computer Science, trained to be a full stack developer by @makersacademy.
 - Currently working on side project called [Her art space](https://github.com/sameerasood/her-art-space)
-- 🛠 &nbsp; I’m currently working with Ruby, Nodejs, Express, React, <br />  Javascript, etc.
+- 🛠 &nbsp; TypeScript, TablePlus, pSQL, Nodejs, Express, React, Javascript, Postman, etc.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/sameerasood/sameerasood/blob/main/Sameera_Sood_Resume_Dev.pdf).
 
 
