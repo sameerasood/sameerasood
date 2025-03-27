@@ -7,8 +7,7 @@
 ### My story:
 - Currently Software Dev at Tiney. Ex technical writer, career changer.
 - B.Tech in Computer Science, trained to be a full stack developer by @makersacademy.
-- Currently working on side project called [Her art space](https://github.com/sameerasood/her-art-space)
-- 🛠 &nbsp; TypeScript, TablePlus, pSQL, Nodejs, Express, React, Javascript, Postman, etc.
+- 🛠 &nbsp; TypeScript, JavaScript, Micro services, React, React Native, GCP, TablePlus, pSQL, Nodejs, Express, Postman, etc.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/sameerasood/sameerasood/blob/main/Sameera_Sood_Resume_Dev.pdf).
 
 
